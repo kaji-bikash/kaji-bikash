@@ -2,11 +2,11 @@
 
 ### Hi there, welcome to my GitHub profile 👋
 
-My name is *Bikash* (sometimes kajisaap but mostly "**kaji**"). 
+My name is *Bikash Basukala* - mostly "**kaji**" 
 
 For more information about me, check out these links:
 
  - :bird: [Twitter](https://twitter.com/kajisaap/)
- - :headphones: [Podcasts]()
+ - :headphones: [Podcasts 404]()
  - :notebook::memo: [Blog 404]()
 
