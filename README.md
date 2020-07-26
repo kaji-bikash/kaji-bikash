@@ -1,6 +1,6 @@
 <img align='right' src='https://github.com/kaji-bikash/kaji-bikash/raw/master/doggy.gif' width='200"'>
 
-### Hi there, welcome to my GitHub profile 👋
+### Hi there 👋
 
 My name is *Bikash Basukala* - mostly "**kaji**" 
 
