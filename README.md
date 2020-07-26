@@ -6,7 +6,8 @@ My name is *Bikash Basukala* - mostly "**kaji**"
 
 For more information about me, check out these links:
 
- - :bird: [Twitter](https://twitter.com/kajisaap/)
- - :headphones: [Podcasts 404]()
+ - :bird: :hatching_chick: [Twitter](https://twitter.com/kajisaap/)
+ - :office: :computer: [Linkedin](https://www.linkedin.com/in/kajibikash)
+ - :headphones: :musical_score: [Podcasts 404]()
  - :notebook::memo: [Blog 404]()
 
